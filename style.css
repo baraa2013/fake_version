@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(84, 106, 117);
+}
+#PageTitle{
+    display: block;
+    width: 500px;
+    margin: auto;
+}
+#تعريف{
+    float: right;
+}
+#AppDownload{
+    display: inline;
+    text-decoration: underline;
+    color: rgb(0, 174, 255);
+}
+#error{
+    display: block;
+    color: rgb(156, 38, 38);
+    float: left;
+}
